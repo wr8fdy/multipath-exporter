@@ -25,7 +25,7 @@ You can install the Multipathd Exporter either by downloading pre-built binaries
 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-repo>/multipathd_exporter.git
+git clone https://github.com/wr8fdy/multipath-exporter.git
 cd multipathd_exporter
 ```
 
